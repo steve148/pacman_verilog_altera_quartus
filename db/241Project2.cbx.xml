@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="241Project2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|ghostromblue:GHOSTB2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_uh71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|vga_adapter:VGA|altsyncram:VideoMemory" CBX_FILE_NAME="altsyncram_c3h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|cherryrom:CHERRIE|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_u371.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|pacmandownn:PAC5ROM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_pg71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|xycounterG2:GHOST2|moduloy:U8|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_35m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|xycounterG:GHOST|moduloy:Unaa|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_35m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|closedpac:PAC2ROM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_po71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|ghostrom:GHOST2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_m071.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|ghostromblue:GHOSTB|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_uh71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|scorecounter:sc|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_d6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|xycounterG:GHOST|modulox:Ulaa|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_45m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|pacman_rom:PACROM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_h771.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|pacmanupp:PAC4ROM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_6a71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|scorecounter:sc|lpm_divide:Mod9" CBX_FILE_NAME="lpm_divide_k6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|xycounter:U0|modulox:m1531|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_45m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|xycounter:U0|moduloy:m1596|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_35m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|xycounterG2:GHOST2|modulox:U7|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_45m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|ghostrom:GHOST|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_m071.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|animation:ANIM|pacmanleft:PAC3ROM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ut71.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
